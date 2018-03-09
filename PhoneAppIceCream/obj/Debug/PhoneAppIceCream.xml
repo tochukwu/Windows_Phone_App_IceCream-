@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PhoneAppIceCream
+</name>
+</assembly>
+<members>
+<member name="M:PhoneAppIceCream.Strawberry.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:PhoneAppIceCream.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:PhoneAppIceCream.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="M:PhoneAppIceCream.Curry.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Banana.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Lager.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Lemon.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Basket.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Report.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Summary.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Home.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Chocolate.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Menu.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Vanilla.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Mint.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:PhoneAppIceCream.Egg.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

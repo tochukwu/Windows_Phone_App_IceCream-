@@ -1,0 +1,82 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="PhoneAppIceCream.Summary"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" BorderBrush="Black">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+    <Grid Background="Transparent" Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0" />
+            <RowDefinition Height="768*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Margin="12,17,0,28" Name="TitlePanel" />
+        <Grid Name="ContentPanel" Margin="0,-1,0,1" Grid.RowSpan="2">
+            <Grid.Background>
+                <ImageBrush ImageSource="/PhoneAppIceCream;component/Images/Untitled3.png" />
+            </Grid.Background>
+            <TextBlock FontSize="32" FontWeight="ExtraBold" Foreground="#FF070707" Height="44" HorizontalAlignment="Left" Margin="158,-6,0,0" Name="TextBlock1" Text="SUMMARY" VerticalAlignment="Top" Width="171" />
+            <TextBlock Height="32" HorizontalAlignment="Left" Margin="12,62,0,0" Name="TextBlock2" Text="VANILLA:" VerticalAlignment="Top" Width="131" Foreground="Black" FontWeight="ExtraBold" FontSize="24" />
+            <TextBox Height="66" HorizontalAlignment="Left" Margin="255,48,0,0" Name="TxtBQVanilla" Text="" VerticalAlignment="Top" Width="103" BorderBrush="Black" Background="White" FontSize="24" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,116,0,0" Name="TextBlock3" Text="CHOCOLATE:" VerticalAlignment="Top" Width="161" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,101,0,0" Name="TxtBQChocolate" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,168,0,0" Name="TextBlock4" Text="STRAWBERRY:" VerticalAlignment="Top" Width="172" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,221,0,0" Name="TextBlock5" Text="LEMON CHEESECAKE:" VerticalAlignment="Top" Width="251" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,273,0,0" Name="TextBlock6" Text="BANANA:" VerticalAlignment="Top" Width="118" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,154,0,0" Name="TxtBQStrawberry" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,324,0,0" Name="TextBlock7" Text="MINT:" VerticalAlignment="Top" Width="78" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,373,0,0" Name="TextBlock8" Text="CURRY:" VerticalAlignment="Top" Width="92" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,424,0,0" Name="TextBlock9" Text="LAGER:" VerticalAlignment="Top" Width="92" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,472,0,0" Name="TextBlock10" Text="EGG:" VerticalAlignment="Top" Width="66" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,207,0,0" Name="TxtBQLemon" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,258,0,0" Name="TxtBQBanana" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,310,0,0" Name="TxtBQMint" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,360,0,0" Name="TxtBQCurry" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,410,0,0" Name="TxtBQLager" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,458,0,0" Name="TxtBQEgg" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,48,0,0" Name="TxtBPVanilla" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,101,0,0" Name="TxtBPChocolate" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,154,0,0" Name="TxtBPStrawberry" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,207,0,0" Name="TxtBPLemon" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,258,0,0" Name="TxtBPBanana" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,310,0,0" Name="TxtBPMint" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,360,0,0" Name="TxtBPCurry" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,410,0,0" Name="TxtBPLager" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,458,0,0" Name="TxtBPEgg" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="32" HorizontalAlignment="Left" Margin="6,28,0,0" Name="TextBlock11" Text="FLAVOURS                  QUANTITY  PRICE" VerticalAlignment="Top" Width="461" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="37" HorizontalAlignment="Left" Margin="12,574,0,0" Name="TextBlock12" Text="TOTAL CUSTOMERS:" VerticalAlignment="Top" Width="237" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="34" HorizontalAlignment="Left" Margin="12,519,0,0" Name="TextBlock13" Text="TOTAL:" VerticalAlignment="Top" Width="92" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="255,507,0,0" Name="TxtBQTotal" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="364,507,0,0" Name="TxtBPTotal" Text="" VerticalAlignment="Top" Width="103" />
+            <TextBlock Height="46" HorizontalAlignment="Left" Margin="1,489,0,0" Name="TextBlock14" Text="-------------------------------------" VerticalAlignment="Top" Width="474" FontWeight="ExtraBold" FontSize="32" Foreground="Black" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="375,560,0,0" Name="TxtBTotalCustomer" Text="" VerticalAlignment="Top" Width="92" />
+            <TextBlock FontSize="32" FontWeight="ExtraBold" Foreground="Black" Height="46" HorizontalAlignment="Left" Margin="2,541,0,0" Name="TextBlock15" Text="-------------------------------------" VerticalAlignment="Top" Width="474" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="37" HorizontalAlignment="Left" Margin="15,667,0,0" Name="TextBlock16" Text="AVERAGE PRICE PER CUSTOMER:" VerticalAlignment="Top" Width="380" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="375,606,0,0" Name="TxtBMemberTotal" Text="" VerticalAlignment="Top" Width="92" />
+            <TextBlock FontSize="24" FontWeight="ExtraBold" Foreground="Black" Height="37" HorizontalAlignment="Left" Margin="15,620,0,0" Name="TextBlock17" Text="NUMBER OF MEMBERS:" VerticalAlignment="Top" Width="380" />
+            <TextBox Background="White" BorderBrush="Black" FontSize="24" Height="66" HorizontalAlignment="Left" Margin="375,652,0,0" Name="TxtBAveragePrice" Text="" VerticalAlignment="Top" Width="92" />
+            <Button Content="CREATE REPORT" Height="72" HorizontalAlignment="Left" Margin="-2,700,0,0" Name="btnReport" VerticalAlignment="Top" Width="251" BorderBrush="Black" Background="White" Foreground="Black" />
+            <Button Background="White" BorderBrush="Black" Content="HOME" Foreground="Black" Height="72" HorizontalAlignment="Left" Margin="229,700,0,0" Name="btnHome" VerticalAlignment="Top" Width="251" />
+        </Grid>
+    </Grid>
+</phone:PhoneApplicationPage>

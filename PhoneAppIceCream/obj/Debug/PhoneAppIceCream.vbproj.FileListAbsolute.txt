@@ -1,0 +1,150 @@
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\ApplicationIcon.png
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Background.png
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.dll
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.pdb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xml
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\AppManifest.xaml
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xap
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\App.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Basket.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Home.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\MainPage.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Menu.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Vanilla.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.g.resources
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.dll
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.xml
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.pdb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\XapCacheFile.xml
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Banana.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Chocolate.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Curry.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Egg.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lager.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lemon.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Mint.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Strawberry.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Summary.g.i.vb
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.dll
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.xml
+H:\My Documents\Visual Studio 2010\Projects\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Report.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\ApplicationIcon.png
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Background.png
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.dll
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.pdb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xml
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\AppManifest.xaml
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xap
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\App.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Banana.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Basket.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Chocolate.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Curry.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Egg.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Home.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lager.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lemon.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\MainPage.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Menu.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Mint.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Report.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Strawberry.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Summary.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Vanilla.g.i.vb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.g.resources
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.dll
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.xml
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.pdb
+E:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\XapCacheFile.xml
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\ApplicationIcon.png
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Background.png
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.dll
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.pdb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xml
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\AppManifest.xaml
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xap
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\App.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Banana.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Basket.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Chocolate.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Curry.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Egg.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Home.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lager.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lemon.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\MainPage.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Menu.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Mint.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Report.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Strawberry.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Summary.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Vanilla.g.i.vb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.g.resources
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.dll
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.xml
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.pdb
+F:\New folder (3)\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\XapCacheFile.xml
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\ApplicationIcon.png
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Background.png
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.dll
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.pdb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xml
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\AppManifest.xaml
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xap
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\App.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Banana.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Basket.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Chocolate.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Curry.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Egg.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Home.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lager.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lemon.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\MainPage.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Menu.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Mint.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Report.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Strawberry.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Summary.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Vanilla.g.i.vb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.g.resources
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.dll
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.xml
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.pdb
+F:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\XapCacheFile.xml
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\ApplicationIcon.png
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Background.png
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.dll
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.pdb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xml
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\AppManifest.xaml
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\PhoneAppIceCream.xap
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\App.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Banana.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Basket.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Chocolate.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Curry.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Egg.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Home.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lager.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Lemon.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\MainPage.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Menu.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Mint.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Report.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Strawberry.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Summary.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\Vanilla.g.i.vb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.g.resources
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.dll
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.xml
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\PhoneAppIceCream.pdb
+E:\uni\uni\software engineering\PhoneAppIceCream\PhoneAppIceCream\obj\Debug\XapCacheFile.xml
